@@ -1,0 +1,5 @@
+export enum TypeOfButton {
+  OPERATOR = "OPERATOR",
+  DECIMAL = "DECIMAL",
+  PRODUCE_RESULT = "PRODUCE_RESULT",
+}
